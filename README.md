@@ -38,11 +38,11 @@ Sample Flow
 
 Technologies Used
 - Java (JDK 11+)
-- No external libraries (pure Java)
+- No external libraries 
 
 Documents Included
-- `ProjectReport.pdf` – full medium-size project report  
-- `statement.md` – problem statement & scope  
+- ProjectReport.pdf
+- statement.md
 - Source code (Java)
 
 
@@ -57,3 +57,4 @@ Screenshots
 !(image-2.png)
 !(image-3.png)
 !(image-4.png)
+
