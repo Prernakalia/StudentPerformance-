@@ -1,7 +1,7 @@
 # Student Performance Management System 
 
 A simple Java console-based application that manages student records, computes average marks, and categorizes performance using rule-based logic (High / Medium / Low).  
-This project was built as part of the "Build Your Own Project" flipped course.
+
 
 Features
 - Add student details  
@@ -57,4 +57,5 @@ Screenshots
 !(image-2.png)
 !(image-3.png)
 !(image-4.png)
+
 
